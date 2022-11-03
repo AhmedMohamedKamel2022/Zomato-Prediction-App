@@ -1,0 +1,6 @@
+we need to create a classification model to determine if the restaurant is good or not based on the rated column ,
+so we will create a new column from it which equal to 1 if the rate is greater than 3.7 and 0 otherwise .
+you will record a video that explain your notebook included all your work steps for this project.
+
+نحتاج إلى إنشاء نموذج تصنيف لتحديد ما إذا كان المطعم جيدًا أم لا بناءً على العمود المصنف ، لذلك سننشئ عمودًا جديدًا منه يساوي 1 إذا كان السعر أكبر من 3.7 و 0 بخلاف ذلك.
+.ستقوم بتسجيل مقطع فيديو يشرح دفتر ملاحظاتك متضمنًا جميع خطوات عملك لهذا المشروع
