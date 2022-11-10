@@ -19,3 +19,5 @@ Models.rar --> that have scaler and classifier algorithm.
 txt_file --> the task of project.
 
 images --> contain image that were used in app.py.
+
+video --> https://drive.google.com/drive/folders/1MU4T28EGOg7-s-ezUr34cS_riy5xF3On
