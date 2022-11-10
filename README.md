@@ -17,3 +17,5 @@ app.py --> streamlit app
 Models.rar --> that have scaler and classifier algorithm
 
 txt_file --> the task of project
+
+images --> contain image that were used in app.py
