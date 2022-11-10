@@ -10,12 +10,12 @@ zomato.csv --> the orignal data, you can download it : https://www.kaggle.com/da
 
 Data.cvs --> this data after preproccessing which the model was trained on it.
 
-Project.ipynb -->project
+Project.ipynb -->project.
 
-app.py --> streamlit app
+app.py --> streamlit app.
 
-Models.rar --> that have scaler and classifier algorithm
+Models.rar --> that have scaler and classifier algorithm.
 
-txt_file --> the task of project
+txt_file --> the task of project.
 
-images --> contain image that were used in app.py
+images --> contain image that were used in app.py.
